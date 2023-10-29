@@ -1,5 +1,5 @@
 [Kubeadm HA](https://github.com/TimeBye/kubeadm-ha)
-=======
+==========
 
 **🎉 项目受 [kubeasz](https://github.com/easzlab/kubeasz) 启发，考虑使用二进制进行安装的童鞋可以参考这个项目。**
 
@@ -14,11 +14,10 @@
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTimeBye%2Fkubeadm-ha.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FTimeBye%2Fkubeadm-ha?ref=badge_shield)
 
 - **项目特性：** 不受国内网络限制、所有组件使用 `kubelet` 托管、多 `master` 高可用、`tls` 双向认证、自定义 `tls` 证书有效期、`RBAC` 授权、支持 `Network Policy`
-
 - **分支说明：**
+
   - `release-*`：安装 `*` 版本的 Kubernetes
   - `develop`：开发分支，不建议使用
-
 - **相关支持：**
 
   <table>
@@ -101,33 +100,8 @@
 [![asciicast](https://asciinema.org/a/254490.svg)](https://asciinema.org/a/254490)
 
 ## 参与者
+
 <table><tr>
-
-   <td align="center">
-  <a href="https://github.com/carllhw"><img src="https://avatars2.githubusercontent.com/u/9696301?s=400&v=4" width="100px;" alt="carllhw"/>
-   <br></br><sub><b>carllhw</b></sub>
-
-   <td align="center">
-  <a href="https://github.com/Jaywoods2"><img src="https://avatars2.githubusercontent.com/u/18679696?s=400&v=4" width="100px;" alt="Jaywoods2"/>
-  <br></br><sub><b>Jaywoods2</b></sub>
-
-   <td align="center">
-  <a href="https://github.com/ChongmingDu"><img src="https://avatars.githubusercontent.com/u/22591706?s=400&v=4" width="100px;" alt="ChongmingDu"/>
-  <br></br><sub><b>ChongmingDu</b></sub>
-  
-   <td align="center">
-  <a href="https://github.com/happinesslijian"><img src="https://avatars2.githubusercontent.com/u/47111417?s=400&v=4" width="100px;" alt="happinesslijian"/>
-  <br></br><sub><b>happinesslijian</b></sub>
-
-   <td align="center">
-  <a href="https://github.com/zlingqu"><img src="https://avatars1.githubusercontent.com/u/41672611?s=400&v=4" width="100px;" alt="zlingqu"/>
-  <br></br><sub><b>zlingqu</b></sub>
-
-   <td align="center">
-  <a href="https://github.com/li-sen"><img src="https://avatars.githubusercontent.com/u/33471335?s=400&v=4" width="100px;" alt="li-sen"/>
-  <br></br><sub><b>li-sen</b></sub>
-
-</td></tr></table>
 
 ## JetBrains 开源证书支持
 
@@ -136,4 +110,5 @@
 <a href="https://www.jetbrains.com/?from=kubeadm-ha" target="_blank"><img src="https://raw.githubusercontent.com/panjf2000/illustrations/master/jetbrains/jetbrains-variant-4.png" width="250" align="middle"/></a>
 
 ## License
+
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTimeBye%2Fkubeadm-ha.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FTimeBye%2Fkubeadm-ha?ref=badge_large)
