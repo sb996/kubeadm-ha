@@ -153,7 +153,7 @@ containerd_extra_args: ""
 # lb_kube_apiserver_healthcheck_port: 8081
 
 # # kubernetes各组件镜像仓库前缀
-# kube_image_repository: registry.aliyuncs.com/kubeadm-ha
+kube_image_repository: registry.aliyuncs.com/kubeadm-ha
 
 # # 使用nginx进行apiserver负载时使用的nginx镜像
 # lb_nginx_image: "{{ kube_image_repository }}/nginx:1.25-alpine"
